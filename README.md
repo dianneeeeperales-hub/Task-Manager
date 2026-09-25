@@ -1,12 +1,11 @@
-Project Code: WST21-PM-2026-SF
-Student Name: PERALES, KARYLLE DIANNE A.
-Course & Year: BSIT 2ND YEAR
-Database Used: SQLite
+**Project Code:** WST21-PM-2026-SF  
+**Student Name:** PERALES, KARYLLE DIANNE A.  
+**Course & Year:** BSIT 2nd Year  
+**Database Used:** SQLite  
 
-Features:
+## Features
 - Add Task
 - View Tasks
 - Edit Task
 - Delete Task
 - Update Status
-
